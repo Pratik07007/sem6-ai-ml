@@ -1,1 +1,1 @@
-echo sem 6 ai ml course
+sem 6 ai ml course
